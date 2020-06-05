@@ -3,7 +3,7 @@ title: My First Page for Quant Island Singapore
 layout: default
 ---
 
-## Quant Island Singapore
+## <a name="quantisland"></a> About Quant Island
 
 Quant Island is a boutique Singapore company that specializes in creating quantitative analytics for Fintech companies. The company was founded in 2013 [by Marco Marchioro](https://marchioro.org) with the vison to bring to Singapore and South East Asia sophisticated quantitative methods for finance. Currently Quant Island is offering its customers consulting services on the following topics:
 
