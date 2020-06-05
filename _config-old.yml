@@ -1,0 +1,5 @@
+name: Quant Island's site
+title: Quant Island Revised Website
+markdown: kramdown
+kramdown:
+  auto_ids: true

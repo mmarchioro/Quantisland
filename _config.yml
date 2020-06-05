@@ -1,5 +1,18 @@
-name: Quant Island's site
-title: Quant Island Revised Website
-markdown: kramdown
-kramdown:
-  auto_ids: true
+# Site settings
+title: Quant Island Website
+description: Bringing Fintech Quantitative Analysis to Singapore with actionable analytics
+
+# User settings
+username: Marco Marchioro
+user_description: Quantitative analyst, blockchain advisor, university lecturer, data scientist, QuantLib founder
+user_title: Software Developer
+email: enquiryn@noreply.com
+twitter_username: lorem_ipsum
+github_username: lorem_ipsum
+gplus_username: lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ["package.json", "src", "node_modules"]
