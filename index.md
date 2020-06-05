@@ -3,25 +3,25 @@ title: My First Page for Quant Island Singapore
 layout: default
 ---
 
-# Quant Island Singapore
+## Quant Island Singapore
 
 Quant Island is a Singapore company that specializes in creating quantitative analytics for Fintech companies. The company was founded in 2013 (by Marco Marchioro)[https://marchioro.org] with the vison to bring to Singapore and South East Asia sophisticated quantitative method for finance.
 
-## Crypto currencies and blockchain technologies
+### Crypto currencies and blockchain technologies
 
 1. Validation of blockchain projects
 1. Trade-level analysis of crypto-currency markets
 1. Research and development of sophisticated trading strategies
 1. Computation of risk and ex-ante expected return for crypto-currency portfolio
 
-## Quantitative risk management
+### Quantitative risk management
 
 Creation of simple risk-management systems with in-house tools
 Leverage QuantLib as a tool for risk management of complex derivatives
 Risk management using StatPro Revolution
 Creation of sophisticated in-house risk management solutions
 
-## Training in quantitative modelling
+### Training in quantitative modelling
 
 1. Basic quantitative-finance pricing techniques
 1. Simple and exotic interest-rate models
@@ -31,7 +31,7 @@ Creation of sophisticated in-house risk management solutions
 1. Fixed-income performance attribution
 1. Fixed-income risk attribution
 
-## Agile software development in quantitative finance
+### Agile software development in quantitative finance
 
 1. Help in setting up an agile software project for quantitative finance
 1. Align the quantitative team with the agile software development method
