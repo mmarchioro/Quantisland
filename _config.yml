@@ -2,14 +2,13 @@
 title: Quant Island Website
 description: Bringing Fintech Quantitative Analysis to Singapore with actionable analytics
 
+baseurl: ""
+url: "https://quantisland.com"
+
 # User settings
-username: Marco Marchioro
+username: Quant Island
+user_title: Quantitative Analytics for Fintechs
 user_description: Quantitative analyst, blockchain advisor, university lecturer, data scientist, QuantLib founder
-user_title: Software Developer
-email: enquiryn@noreply.com
-twitter_username: lorem_ipsum
-github_username: lorem_ipsum
-gplus_username: lorem_ipsum
 
 # Google-analytics
 google-analytics:
