@@ -1,3 +1,8 @@
+---
+title: My First Page for Quant Island Singapore
+layout: default
+---
+
 # Quant Island Singapore
 
 Fintech Quantitative Analysis with actionable analytics
