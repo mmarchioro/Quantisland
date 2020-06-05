@@ -1,8 +1,3 @@
----
-layout: default
-title: Home of Quant Island Singapore
----
-
 # Quant Island Singapore
 
 Fintech Quantitative Analysis with actionable analytics
