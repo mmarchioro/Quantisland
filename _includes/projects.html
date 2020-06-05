@@ -1,29 +1,39 @@
 <div class="user-details">
-  <h1> Featured Projects </h1>
+  <h1>Featured Charts</h1>
 </div>
 <div class="user-projects">
   <div class="images-right">
-    <img alt="mountains" src="{{ "/assets/img/mountains.jpg" | prepend: site.baseurl }}" />
+    <img alt="mountains" src="{{ "/assets/img/multi-period-market-trends.png" | prepend: site.baseurl }}" />
   </div>
   <div class="contents">
-    <h3> Project Title </h3>
+    <h3>Multi-period market trends</h3>
+    <p>
+      Identifies the current and historical trend on different time frames (popular choice 2 months, 1 month, 1 week,
+      and 2 days). The comparison of different trends allows the trader to implement his own strategy
+    </p>
     <ul>
-      <li> Featured Skills</li>
+      <li>Each period is split into linear segments. The last segment determines the latest trend</li>
+      <li>The model also indicates how long the trend has lasted so far</li>
+      <li>For each trend a score is also computed to help the trader in taking the investment decision</li>
     </ul>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <a class="project-link" href="#">Check it out</a>
   </div>
 </div>
 <div class="user-projects">
   <div class="images-left">
-    <img alt="mountains" src="{{ "/assets/img/skate.jpg" | prepend: site.baseurl }}" />
+    <img alt="mountains" src="{{ "/assets/img/short-term-risk-gain-outlook.png" | prepend: site.baseurl }}" />
   </div>
   <div class="contents-right">
-    <h3> Project Title </h3>
+    <h3>Short-Term Risk/Gain OUTLOOK</h3>
+    <p>
+      It provides a view on the current market situation by computing the expected distribution of short-term returns
+    </p>
     <ul>
-      <li> Featured Skills</li>
+      <li>Shows the current volatility and the expected return</li>
+      <li>Measures risk and potential earnings with a customizable confidence intervals</li>
+      <li>
+        Adapts to market conditions as the window size changes, widening in relaxed markets and shorting in stressed
+        ones
+      </li>
     </ul>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <a class="project-link" href="#">Check it out</a>
   </div>
 </div>
