@@ -1,5 +1,5 @@
 ---
-title: My First Page for Quant Island Singapore
+title: Quant Island: a Singapore-based fintech company
 layout: default
 ---
 
